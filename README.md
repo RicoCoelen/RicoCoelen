@@ -2,7 +2,7 @@
 
 Website with examples of my repositories: https://www.ricocoelen.com/
 </br>
-LinkedIn account with examples of my work experience:https://www.linkedin.com/in/rico-coelen/
+LinkedIn account with examples of my work experience: https://www.linkedin.com/in/rico-coelen/
 
 <!--
 **RicoCoelen/RicoCoelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
