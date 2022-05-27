@@ -1,8 +1,5 @@
 <h1>Hi, and welcome!</h1>
-<!--
-Website with examples of my repositories: https://www.ricocoelen.com/
--->
-
+Website with examples of my repositories: https://ricochet-games.com/
 </br>
 LinkedIn account with examples of my work experience: https://www.linkedin.com/in/rico-coelen/
 
